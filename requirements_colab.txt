@@ -1,0 +1,11 @@
+numpy==1.16.1
+h5py==2.9.0
+Keras==2.2.4
+opencv-python==4.0.0.21
+tensorflow-gpu==1.13.1
+plaidml-keras==0.5.0
+scikit-image
+dlib==19.16.0
+tqdm
+ffmpeg-python==0.1.17
+git+https://www.github.com/keras-team/keras-contrib.git
