@@ -49,8 +49,5 @@ cd DeepFaceLab_Linux
 python -m pip install -r requirements-cuda.txt
 ```
 
-
-#图文教程
+# 图文教程
 https://www.deepfakescn.com/?p=1202
-
-
